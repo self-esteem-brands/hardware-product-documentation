@@ -2,5 +2,5 @@
 
 Welcome to Self Esteem Brands product technical documentation website.
 
-* Link to Access Pro
-* Link to Basecamp Lighting
+* [Access Pro](accesspro.md)
+* [Basecamp Lighting Project (WIP)](basecamp_lighting.md)
